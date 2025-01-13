@@ -2,7 +2,7 @@
  * api/user
  * 1. post: admin patch role on registered user || configure server cashe
  */
-type UserRole = 'teacher' | 'sales' | 'consultant' | string;
+export type UserRole = 'teacher' | 'sales' | 'consultant' | string;
 
 /**
  * 5. post: schemaCrl'er register user with role
