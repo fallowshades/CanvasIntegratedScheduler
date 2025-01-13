@@ -17,7 +17,6 @@ Punch clock iOS / Android app for Oden HR using React Native Expo.
 
 ## Getting started
 
-Follow the **[React-Native Expo installation guide](https://reactnative.dev/docs/environment-setup)** to set up a developer environment.
 
 ### Requirements
 
@@ -50,9 +49,10 @@ Just a recommendation based on what worked for this developer:
 
 ## Installation
 
+
 1.  client-only: cd client && npm run dev
-2. server-only: cd server && npm run dev
-3. 
+2. webservice: cd server && npm run dev
+3. webservice + backend: npm run dev
 
 ### Run using prebuild
 

@@ -7,13 +7,7 @@
   "scripts": {
     "install:all": "npm install && cd shared && npm install && cd ../client && npm install && cd ../server && npm install",
     "install": "cd shared && npm install && cd ../client && npm install && cd ../server && npm install",
-    "build:shared": "cd shared && npm install && npm run build",
-    "build:client": "cd client && npm install && npm run build",
-    "build:server": "cd server && npm install && npm run build",
-    "setup-production-app": "npm --prefix ./server run setup-production-app",
-    "deploy": "npm run build:shared && npm run build:client && npm run build:server",
-    "start": "cd server && npm run start",
-    "dev": "concurrently \"npm run dev --prefix shared\"  \"npm run dev --prefix server\" \"npm run dev --prefix client\""
+    "dev": "cd server && npm run dev:basic"
   },
   "keywords": [],
   "author": "",
