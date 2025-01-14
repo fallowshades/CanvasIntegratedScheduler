@@ -26,7 +26,7 @@ bum bokning / Web app for chass visual
 
 ### Recommended tools
 
-- [Visual Studio Code](https://code.visualstudio.com/) - cross-platoform modular IDE with [React-Native support](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) and integrated [terminal](https://code.visualstudio.com/docs/editor/integrated-terminal).
+- [Visual Studio Code](https://code.visualstudio.com/) -  and integrated [terminal](https://code.visualstudio.com/docs/editor/integrated-terminal).
 - Windows users: [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/vscode/using-vscode?view=powershell-7.2), [Bash via WSL](https://docs.microsoft.com/en-us/windows/wsl/about)
 
 Optionally install [Yarn](https://classic.yarnpkg.com/en/) - a fast package manager for installing NPM dependencies. However, do not add new packages using Yarn as that would create a yarn.lock.
