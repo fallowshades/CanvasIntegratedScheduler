@@ -1,6 +1,6 @@
-# Oden Punch Clock
+# Rum bokning
 
-Punch clock iOS / Android app for Oden HR using React Native Expo.
+bum bokning / Web app for chass visual
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactrouter.com/) 
 [![React Router](https://img.shields.io/badge/react_router-%230d66e6.svg?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/) 
@@ -79,7 +79,7 @@ Just a recommendation based on what worked for this developer:
 
 ## Development credentials
 
-- gitlab access token for expo: `iE9eNN0K5Wr-jLtT-tFCTwSMX8C0uFMpxBECqvXW`
+- github access token for expo:
 
 For staging builds:
 
@@ -92,6 +92,7 @@ For production builds
 - Domain: 
 - Username: 
 - password:
+
 ## Integrations
 
 ### UI
